@@ -34,11 +34,9 @@ npm run dev
 # then open new terminal from the root directory
 
 cd server
-npm install 
-## Install dependencies:
 
-## bash
-npm install
+## Install dependencies:
+npm install 
 
 ## Set up environment variables:
 ### Create a .env file in the client file:

@@ -34,7 +34,7 @@ app.use(helmet());
 
 // Replace your current CORS config with this:
 const corsOptions = {
-    origin: "https://fantasy-1-77hv.onrender.com",
+    origin: "http://localhost:5000",
     credentials: true,
     methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
     allowedHeaders: ['Content-Type', 'Authorization']
